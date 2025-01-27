@@ -126,7 +126,7 @@
                         "emfatic": "panel-mm"
                     },
 
-                    "output": "panel-diagram"
+                    "output": "panel-model-diagram"
                 },
                 {
                     "source": "panel-turtles",
